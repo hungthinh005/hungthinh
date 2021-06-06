@@ -1,56 +1,56 @@
     [{"country":"Austria","county":null,"updatedAt":"2020-3-1","stats":{"confirmed":14,"deaths":0,"recovered":0},"coordinates":{"latitude":"47.5162","longitude":"14.5501"},"province":null}
     ,{"country":"Bahrain","county":null,"updatedAt":"2020-3-1","stats":{"confirmed":47,"deaths":0,"recovered":0},"coordinates":{"latitude":"26.0275","longitude":"50.55"},"province":null}
     ,{"country":"Canada","county":null,"updatedAt":"2020-3-1","stats":{"confirmed":15,"deaths":0,"recovered":0},"coordinates":{"latitude":"51.2538","longitude":"-85.3232"},"province":"Ontario"}
-    ,{"country":"China","county":null,"updatedAt":"2020-3-1","stats":{"confirmed":990,"deaths":873,"recovered":6},"coordinates":{"latitude":"31.8257","longitude":"117.2264"},"province":"Anhui"}
-    ,{"country":"China","county":null,"updatedAt":"2020-3-1","stats":{"confirmed":413,"deaths":276,"recovered":8},"coordinates":{"latitude":"40.1824","longitude":"116.4142"},"province":"Beijing"}
-    ,{"country":"China","county":null,"updatedAt":"2020-3-1","stats":{"confirmed":576,"deaths":450,"recovered":6},"coordinates":{"latitude":"30.0572","longitude":"107.874"},"province":"Chongqing"}
-    ,{"country":"China","county":null,"updatedAt":"2020-3-1","stats":{"confirmed":296,"deaths":247,"recovered":1},"coordinates":{"latitude":"26.0789","longitude":"117.9874"},"province":"Fujian"}
-    ,{"country":"China","county":null,"updatedAt":"2020-3-1","stats":{"confirmed":91,"deaths":84,"recovered":2},"coordinates":{"latitude":"35.7518","longitude":"104.2861"},"province":"Gansu"}
-    ,{"country":"China","county":null,"updatedAt":"2020-3-1","stats":{"confirmed":1349,"deaths":1016,"recovered":7},"coordinates":{"latitude":"23.3417","longitude":"113.4244"},"province":"Guangdong"} 
-    ,{"country":"China","county":null,"updatedAt":"2020-3-1","stats":{"confirmed":252,"deaths":181,"recovered":2},"coordinates":{"latitude":"23.8298","longitude":"108.7881"},"province":"Guangxi"}
-    ,{"country":"China","county":null,"updatedAt":"2020-3-1","stats":{"confirmed":146,"deaths":112,"recovered":2},"coordinates":{"latitude":"26.8154","longitude":"106.8748"},"province":"Guizhou"}
-    ,{"country":"China","county":null,"updatedAt":"2020-3-1","stats":{"confirmed":168,"deaths":149,"recovered":5},"coordinates":{"latitude":"19.1959","longitude":"109.7453"},"province":"Hainan"}
-    ,{"country":"China","county":null,"updatedAt":"2020-3-1","stats":{"confirmed":318,"deaths":294,"recovered":6},"coordinates":{"latitude":"37.8957","longitude":"114.9042"},"province":"Hebei"}
-    ,{"country":"China","county":null,"updatedAt":"2020-3-1","stats":{"confirmed":480,"deaths":342,"recovered":13},"coordinates":{"latitude":"47.862","longitude":"127.7615"},"province":"Heilongjiang"}
-    ,{"country":"China","county":null,"updatedAt":"2020-3-1","stats":{"confirmed":1272,"deaths":1198,"recovered":22},"coordinates":{"latitude":"33.882","longitude":"113.614"},"province":"Henan"}
-    ,{"country":"China","county":null,"updatedAt":"2020-3-1","stats":{"confirmed":96,"deaths":36,"recovered":2},"coordinates":{"latitude":"22.3","longitude":"114.2"},"province":"Hong Kong"}
-    ,{"country":"China","county":null,"updatedAt":"2020-3-1","stats":{"confirmed":66907,"deaths":31536,"recovered":2761},"coordinates":{"latitude":"30.9756","longitude":"112.2707"},"province":"Hubei"}
-    ,{"country":"China","county":null,"updatedAt":"2020-3-1","stats":{"confirmed":1018,"deaths":866,"recovered":4},"coordinates":{"latitude":"27.6104","longitude":"111.7088"},"province":"Hunan"}
-    ,{"country":"China","county":null,"updatedAt":"2020-3-1","stats":{"confirmed":75,"deaths":52,"recovered":0},"coordinates":{"latitude":"44.0935","longitude":"113.9448"},"province":"Inner Mongolia"}
-    ,{"country":"China","county":null,"updatedAt":"2020-3-1","stats":{"confirmed":631,"deaths":536,"recovered":0},"coordinates":{"latitude":"32.9711","longitude":"119.455"},"province":"Jiangsu"}
-    ,{"country":"China","county":null,"updatedAt":"2020-3-1","stats":{"confirmed":935,"deaths":831,"recovered":1},"coordinates":{"latitude":"27.614","longitude":"115.7221"},"province":"Jiangxi"}
-    ,{"country":"China","county":null,"updatedAt":"2020-3-1","stats":{"confirmed":93,"deaths":78,"recovered":1},"coordinates":{"latitude":"43.6661","longitude":"126.1923"},"province":"Jilin"}
-    ,{"country":"China","county":null,"updatedAt":"2020-3-1","stats":{"confirmed":122,"deaths":103,"recovered":1},"coordinates":{"latitude":"41.2956","longitude":"122.6085"},"province":"Liaoning"}
-    ,{"country":"China","county":null,"updatedAt":"2020-3-1","stats":{"confirmed":73,"deaths":69,"recovered":0},"coordinates":{"latitude":"37.2692","longitude":"106.1655"},"province":"Ningxia"}
-    ,{"country":"China","county":null,"updatedAt":"2020-3-1","stats":{"confirmed":18,"deaths":18,"recovered":0},"coordinates":{"latitude":"35.7452","longitude":"95.9956"},"province":"Qinghai"}
-    ,{"country":"China","county":null,"updatedAt":"2020-3-1","stats":{"confirmed":245,"deaths":208,"recovered":1},"coordinates":{"latitude":"35.1917","longitude":"108.8701"},"province":"Shaanxi"}
-    ,{"country":"China","county":null,"updatedAt":"2020-3-1","stats":{"confirmed":758,"deaths":443,"recovered":6},"coordinates":{"latitude":"36.3427","longitude":"118.1498"},"province":"Shandong"}
-    ,{"country":"China","county":null,"updatedAt":"2020-3-1","stats":{"confirmed":337,"deaths":290,"recovered":3},"coordinates":{"latitude":"31.202","longitude":"121.4491"},"province":"Shanghai"}
-    ,{"country":"China","county":null,"updatedAt":"2020-3-1","stats":{"confirmed":133,"deaths":116,"recovered":0},"coordinates":{"latitude":"37.5777","longitude":"112.2922"},"province":"Shanxi"}
-    ,{"country":"China","county":null,"updatedAt":"2020-3-1","stats":{"confirmed":538,"deaths":365,"recovered":3},"coordinates":{"latitude":"30.6171","longitude":"102.7103"},"province":"Sichuan"}
-    ,{"country":"China","county":null,"updatedAt":"2020-3-1","stats":{"confirmed":136,"deaths":111,"recovered":3},"coordinates":{"latitude":"39.3054","longitude":"117.323"},"province":"Tianjin"}
-    ,{"country":"China","county":null,"updatedAt":"2020-3-1","stats":{"confirmed":76,"deaths":64,"recovered":3},"coordinates":{"latitude":"41.1129","longitude":"85.2401"},"province":"Xinjiang"}
-    ,{"country":"China","county":null,"updatedAt":"2020-3-1","stats":{"confirmed":174,"deaths":163,"recovered":2},"coordinates":{"latitude":"24.974","longitude":"101.487"},"province":"Yunnan"}
-    ,{"country":"China","county":null,"updatedAt":"2020-3-1","stats":{"confirmed":1205,"deaths":1046,"recovered":1},"coordinates":{"latitude":"29.1832","longitude":"120.0934"},"province":"Zhejiang"}
-    ,{"country":"Diamond Princess","county":null,"updatedAt":"2020-3-1","stats":{"confirmed":705,"deaths":10,"recovered":6},"coordinates":{"latitude":"","longitude":""},"province":null}
-    ,{"country":"France","county":null,"updatedAt":"2020-3-1","stats":{"confirmed":130,"deaths":12,"recovered":2},"coordinates":{"latitude":"46.2276","longitude":"2.2137"},"province":null}   
-    ,{"country":"Germany","county":null,"updatedAt":"2020-3-1","stats":{"confirmed":130,"deaths":16,"recovered":0},"coordinates":{"latitude":"","longitude":""},"province":"Unknown"}   
-    ,{"country":"Iran","county":null,"updatedAt":"2020-3-1","stats":{"confirmed":978,"deaths":175,"recovered":54},"coordinates":{"latitude":"32.427908","longitude":"53.68804599999999"},"province":null}
+    ,{"country":"China","county":null,"updatedAt":"2020-3-1","stats":{"confirmed":990,"deaths":6,"recovered":873},"coordinates":{"latitude":"31.8257","longitude":"117.2264"},"province":"Anhui"}
+    ,{"country":"China","county":null,"updatedAt":"2020-3-1","stats":{"confirmed":413,"deaths":8,"recovered":276},"coordinates":{"latitude":"40.1824","longitude":"116.4142"},"province":"Beijing"}
+    ,{"country":"China","county":null,"updatedAt":"2020-3-1","stats":{"confirmed":576,"deaths":6,"recovered":450},"coordinates":{"latitude":"30.0572","longitude":"107.874"},"province":"Chongqing"}
+    ,{"country":"China","county":null,"updatedAt":"2020-3-1","stats":{"confirmed":296,"deaths":1,"recovered":247},"coordinates":{"latitude":"26.0789","longitude":"117.9874"},"province":"Fujian"}
+    ,{"country":"China","county":null,"updatedAt":"2020-3-1","stats":{"confirmed":91,"deaths":2,"recovered":84},"coordinates":{"latitude":"35.7518","longitude":"104.2861"},"province":"Gansu"}
+    ,{"country":"China","county":null,"updatedAt":"2020-3-1","stats":{"confirmed":1349,"deaths":7,"recovered":1016},"coordinates":{"latitude":"23.3417","longitude":"113.4244"},"province":"Guangdong"} 
+    ,{"country":"China","county":null,"updatedAt":"2020-3-1","stats":{"confirmed":252,"deaths":2,"recovered":181},"coordinates":{"latitude":"23.8298","longitude":"108.7881"},"province":"Guangxi"}
+    ,{"country":"China","county":null,"updatedAt":"2020-3-1","stats":{"confirmed":146,"deaths":2,"recovered":112},"coordinates":{"latitude":"26.8154","longitude":"106.8748"},"province":"Guizhou"}
+    ,{"country":"China","county":null,"updatedAt":"2020-3-1","stats":{"confirmed":168,"deaths":5,"recovered":149},"coordinates":{"latitude":"19.1959","longitude":"109.7453"},"province":"Hainan"}
+    ,{"country":"China","county":null,"updatedAt":"2020-3-1","stats":{"confirmed":318,"deaths":6,"recovered":294},"coordinates":{"latitude":"37.8957","longitude":"114.9042"},"province":"Hebei"}
+    ,{"country":"China","county":null,"updatedAt":"2020-3-1","stats":{"confirmed":480,"deaths":13,"recovered":342},"coordinates":{"latitude":"47.862","longitude":"127.7615"},"province":"Heilongjiang"}
+    ,{"country":"China","county":null,"updatedAt":"2020-3-1","stats":{"confirmed":1272,"deaths":22,"recovered":1198},"coordinates":{"latitude":"33.882","longitude":"113.614"},"province":"Henan"}
+    ,{"country":"China","county":null,"updatedAt":"2020-3-1","stats":{"confirmed":96,"deaths":2,"recovered":36},"coordinates":{"latitude":"22.3","longitude":"114.2"},"province":"Hong Kong"}
+    ,{"country":"China","county":null,"updatedAt":"2020-3-1","stats":{"confirmed":66907,"deaths":2761,"recovered":31536},"coordinates":{"latitude":"30.9756","longitude":"112.2707"},"province":"Hubei"}
+    ,{"country":"China","county":null,"updatedAt":"2020-3-1","stats":{"confirmed":1018,"deaths":4,"recovered":866},"coordinates":{"latitude":"27.6104","longitude":"111.7088"},"province":"Hunan"}
+    ,{"country":"China","county":null,"updatedAt":"2020-3-1","stats":{"confirmed":75,"deaths":0,"recovered":52},"coordinates":{"latitude":"44.0935","longitude":"113.9448"},"province":"Inner Mongolia"}
+    ,{"country":"China","county":null,"updatedAt":"2020-3-1","stats":{"confirmed":631,"deaths":0,"recovered":536},"coordinates":{"latitude":"32.9711","longitude":"119.455"},"province":"Jiangsu"}
+    ,{"country":"China","county":null,"updatedAt":"2020-3-1","stats":{"confirmed":935,"deaths":1,"recovered":831},"coordinates":{"latitude":"27.614","longitude":"115.7221"},"province":"Jiangxi"}
+    ,{"country":"China","county":null,"updatedAt":"2020-3-1","stats":{"confirmed":93,"deaths":1,"recovered":78},"coordinates":{"latitude":"43.6661","longitude":"126.1923"},"province":"Jilin"}
+    ,{"country":"China","county":null,"updatedAt":"2020-3-1","stats":{"confirmed":122,"deaths":1,"recovered":103},"coordinates":{"latitude":"41.2956","longitude":"122.6085"},"province":"Liaoning"}
+    ,{"country":"China","county":null,"updatedAt":"2020-3-1","stats":{"confirmed":73,"deaths":0,"recovered":69},"coordinates":{"latitude":"37.2692","longitude":"106.1655"},"province":"Ningxia"}
+    ,{"country":"China","county":null,"updatedAt":"2020-3-1","stats":{"confirmed":18,"deaths":0,"recovered":18},"coordinates":{"latitude":"35.7452","longitude":"95.9956"},"province":"Qinghai"}
+    ,{"country":"China","county":null,"updatedAt":"2020-3-1","stats":{"confirmed":245,"deaths":1,"recovered":208},"coordinates":{"latitude":"35.1917","longitude":"108.8701"},"province":"Shaanxi"}
+    ,{"country":"China","county":null,"updatedAt":"2020-3-1","stats":{"confirmed":758,"deaths":6,"recovered":443},"coordinates":{"latitude":"36.3427","longitude":"118.1498"},"province":"Shandong"}
+    ,{"country":"China","county":null,"updatedAt":"2020-3-1","stats":{"confirmed":337,"deaths":3,"recovered":290},"coordinates":{"latitude":"31.202","longitude":"121.4491"},"province":"Shanghai"}
+    ,{"country":"China","county":null,"updatedAt":"2020-3-1","stats":{"confirmed":133,"deaths":0,"recovered":116},"coordinates":{"latitude":"37.5777","longitude":"112.2922"},"province":"Shanxi"}
+    ,{"country":"China","county":null,"updatedAt":"2020-3-1","stats":{"confirmed":538,"deaths":3,"recovered":365},"coordinates":{"latitude":"30.6171","longitude":"102.7103"},"province":"Sichuan"}
+    ,{"country":"China","county":null,"updatedAt":"2020-3-1","stats":{"confirmed":136,"deaths":3,"recovered":111},"coordinates":{"latitude":"39.3054","longitude":"117.323"},"province":"Tianjin"}
+    ,{"country":"China","county":null,"updatedAt":"2020-3-1","stats":{"confirmed":76,"deaths":3,"recovered":64},"coordinates":{"latitude":"41.1129","longitude":"85.2401"},"province":"Xinjiang"}
+    ,{"country":"China","county":null,"updatedAt":"2020-3-1","stats":{"confirmed":174,"deaths":2,"recovered":163},"coordinates":{"latitude":"24.974","longitude":"101.487"},"province":"Yunnan"}
+    ,{"country":"China","county":null,"updatedAt":"2020-3-1","stats":{"confirmed":1205,"deaths":1,"recovered":1046},"coordinates":{"latitude":"29.1832","longitude":"120.0934"},"province":"Zhejiang"}
+    ,{"country":"Diamond Princess","county":null,"updatedAt":"2020-3-1","stats":{"confirmed":705,"deaths":6,"recovered":10},"coordinates":{"latitude":"","longitude":""},"province":null}
+    ,{"country":"France","county":null,"updatedAt":"2020-3-1","stats":{"confirmed":130,"deaths":2,"recovered":12},"coordinates":{"latitude":"46.2276","longitude":"2.2137"},"province":null}   
+    ,{"country":"Germany","county":null,"updatedAt":"2020-3-1","stats":{"confirmed":130,"deaths":0,"recovered":16},"coordinates":{"latitude":"","longitude":""},"province":"Unknown"}   
+    ,{"country":"Iran","county":null,"updatedAt":"2020-3-1","stats":{"confirmed":978,"deaths":54,"recovered":175},"coordinates":{"latitude":"32.427908","longitude":"53.68804599999999"},"province":null}
     ,{"country":"Iraq","county":null,"updatedAt":"2020-3-1","stats":{"confirmed":19,"deaths":0,"recovered":0},"coordinates":{"latitude":"33.223191","longitude":"43.679291"},"province":null} 
-    ,{"country":"Italy","county":null,"updatedAt":"2020-3-1","stats":{"confirmed":1694,"deaths":83,"recovered":34},"coordinates":{"latitude":"45.73750286","longitude":"7.320149366"},"province":null}
-    ,{"country":"Japan","county":null,"updatedAt":"2020-3-1","stats":{"confirmed":259,"deaths":32,"recovered":6},"coordinates":{"latitude":"33.911879","longitude":"135.505446"},"province":"Wakayama"}
-    ,{"country":"Korea, South","county":null,"updatedAt":"2020-3-1","stats":{"confirmed":3736,"deaths":30,"recovered":17},"coordinates":{"latitude":"35.90775700000001","longitude":"127.766922"},"province":null}
+    ,{"country":"Italy","county":null,"updatedAt":"2020-3-1","stats":{"confirmed":1694,"deaths":34,"recovered":83},"coordinates":{"latitude":"45.73750286","longitude":"7.320149366"},"province":null}
+    ,{"country":"Japan","county":null,"updatedAt":"2020-3-1","stats":{"confirmed":259,"deaths":6,"recovered":32},"coordinates":{"latitude":"33.911879","longitude":"135.505446"},"province":"Wakayama"}
+    ,{"country":"Korea, South","county":null,"updatedAt":"2020-3-1","stats":{"confirmed":3736,"deaths":17,"recovered":30},"coordinates":{"latitude":"35.90775700000001","longitude":"127.766922"},"province":null}
     ,{"country":"Kuwait","county":null,"updatedAt":"2020-3-1","stats":{"confirmed":45,"deaths":0,"recovered":0},"coordinates":{"latitude":"29.31166","longitude":"47.481766"},"province":null} 
-    ,{"country":"Malaysia","county":null,"updatedAt":"2020-3-1","stats":{"confirmed":29,"deaths":18,"recovered":10780},"coordinates":{"latitude":"4.210483999999999","longitude":"101.975766"},"province":null} 
+    ,{"country":"Malaysia","county":null,"updatedAt":"2020-3-1","stats":{"confirmed":29,"deaths":0,"recovered":18},"coordinates":{"latitude":"4.210483999999999","longitude":"101.975766"},"province":null} 
     ,{"country":"Norway","county":null,"updatedAt":"2020-3-1","stats":{"confirmed":19,"deaths":0,"recovered":0},"coordinates":{"latitude":"60.472","longitude":"8.4689"},"province":null}
-    ,{"country":"Singapore","county":null,"updatedAt":"2020-3-1","stats":{"confirmed":106,"deaths":72,"recovered":0},"coordinates":{"latitude":"1.2833","longitude":"103.8333"},"province":null}
-    ,{"country":"Spain","county":null,"updatedAt":"2020-3-1","stats":{"confirmed":84,"deaths":2,"recovered":0},"coordinates":{"latitude":"","longitude":""},"province":"Unknown"}
+    ,{"country":"Singapore","county":null,"updatedAt":"2020-3-1","stats":{"confirmed":106,"deaths":0,"recovered":72},"coordinates":{"latitude":"1.2833","longitude":"103.8333"},"province":null}
+    ,{"country":"Spain","county":null,"updatedAt":"2020-3-1","stats":{"confirmed":84,"deaths":0,"recovered":2},"coordinates":{"latitude":"","longitude":""},"province":"Unknown"}
     ,{"country":"Sweden","county":null,"updatedAt":"2020-3-1","stats":{"confirmed":14,"deaths":0,"recovered":0},"coordinates":{"latitude":"56.2784","longitude":"15.018"},"province":"Blekinge"}
     ,{"country":"Switzerland","county":null,"updatedAt":"2020-3-1","stats":{"confirmed":27,"deaths":0,"recovered":0},"coordinates":{"latitude":"46.8182","longitude":"8.2275"},"province":null}
-    ,{"country":"Taiwan*","county":null,"updatedAt":"2020-3-1","stats":{"confirmed":40,"deaths":9,"recovered":1},"coordinates":{"latitude":"23.7","longitude":"121.0"},"province":null}
-    ,{"country":"Thailand","county":null,"updatedAt":"2020-3-1","stats":{"confirmed":42,"deaths":30,"recovered":1},"coordinates":{"latitude":"15.870032","longitude":"100.992541"},"province":null}
-    ,{"country":"US","county":null,"updatedAt":"2020-08-04 02:27:56","stats":{"confirmed":32,"deaths":7,"recovered":1},"coordinates":{"latitude":"","longitude":""},"province":"Diamond Princess"}
-    ,{"country":"Uganda","county":null,"updatedAt":"2020-3-1","stats":{"confirmed":9701,"deaths":93,"recovered":6022},"coordinates":{"latitude":"1.373333","longitude":"32.290275"},"province":null}
-    ,{"country":"United Arab Emirates","county":null,"updatedAt":"2020-3-1","stats":{"confirmed":21,"deaths":5,"recovered":0},"coordinates":{"latitude":"23.424076","longitude":"53.847818"},"province":null}
-    ,{"country":"United Kingdom","county":null,"updatedAt":"2020-3-1","stats":{"confirmed":94,"deaths":8,"recovered":0},"coordinates":{"latitude":"","longitude":""},"province":"Unknown"}
-    ,{"country":"Vietnam","county":null,"updatedAt":"2020-3-1","stats":{"confirmed":16,"deaths":16,"recovered":0},"coordinates":{"latitude":"14.058324","longitude":"108.277199"},"province":null}]
+    ,{"country":"Taiwan*","county":null,"updatedAt":"2020-3-1","stats":{"confirmed":40,"deaths":1,"recovered":9},"coordinates":{"latitude":"23.7","longitude":"121.0"},"province":null}
+    ,{"country":"Thailand","county":null,"updatedAt":"2020-3-1","stats":{"confirmed":42,"deaths":1,"recovered":30},"coordinates":{"latitude":"15.870032","longitude":"100.992541"},"province":null}
+    ,{"country":"US","county":null,"updatedAt":"2020-08-04 02:27:56","stats":{"confirmed":32,"deaths":1,"recovered":7},"coordinates":{"latitude":"","longitude":""},"province":"Diamond Princess"}
+    ,{"country":"Uganda","county":null,"updatedAt":"2020-3-1","stats":{"confirmed":9701,"deaths":6022,"recovered":93},"coordinates":{"latitude":"1.373333","longitude":"32.290275"},"province":null}
+    ,{"country":"United Arab Emirates","county":null,"updatedAt":"2020-3-1","stats":{"confirmed":21,"deaths":0,"recovered":5},"coordinates":{"latitude":"23.424076","longitude":"53.847818"},"province":null}
+    ,{"country":"United Kingdom","county":null,"updatedAt":"2020-3-1","stats":{"confirmed":94,"deaths":0,"recovered":8},"coordinates":{"latitude":"","longitude":""},"province":"Unknown"}
+    ,{"country":"Vietnam","county":null,"updatedAt":"2020-3-1","stats":{"confirmed":16,"deaths":0,"recovered":16},"coordinates":{"latitude":"14.058324","longitude":"108.277199"},"province":null}]
